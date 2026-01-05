@@ -1,5 +1,5 @@
 # Aspyra_complete
-Custom roadmap and rooms to innovate learning
+Custom roadmap and rooms to innovate learning (minor project)
 
 Techstack :- 
 react js (frontend)
